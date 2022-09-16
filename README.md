@@ -1,6 +1,6 @@
-## Web to lead CSS
+# Web to lead CSS
 
-# Installation 
+## Installation 
 
 Add the following line to your CSS  
 
@@ -16,3 +16,4 @@ Add the following line to your CSS
 
 </div>
 ```
+
